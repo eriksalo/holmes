@@ -19,7 +19,7 @@ rest = re.sub(r'^---\s*$', '', rest, flags=re.M)
 REPO = 'https://github.com/eriksalo/holmes'
 preface = (preface
            .replace('`corpus/works/`', f'[the corpus]({REPO}/tree/main/corpus/works)')
-           .replace('the per-play notes in `notes/`', f'[the per-play notes]({REPO}/tree/main/notes)'))
+           .replace('the per-story notes in `notes/`', f'[the per-story notes]({REPO}/tree/main/notes)'))
 rest = rest.replace('`notes/`', f'[`notes/`]({REPO}/tree/main/notes)')
 
 tm = re.search(r'^<!-- themes: (.+?) -->\s*$', rest, re.M)
@@ -187,7 +187,7 @@ doc = f"""<!doctype html><html lang="en"><head><meta charset="utf-8"><meta name=
   <p class="eyebrow">Essay · October 2026</p>
   <h1>{html.escape(title)}</h1>
   <div class="sub">{pre_html}</div>
-  <div class="btns"><a class="btn primary" href="THE-HUMAN-CONDITION.pdf">Download PDF</a><a class="btn" href="{REPO}/tree/main/notes">Per-play notes</a><a class="btn" href="{REPO}">Source on GitHub</a></div>
+  <div class="btns"><a class="btn primary" href="THE-HUMAN-CONDITION.pdf">Download PDF</a><a class="btn" href="{REPO}/tree/main/notes">Per-story notes</a><a class="btn" href="{REPO}">Source on GitHub</a></div>
   <div class="meta">
     <div><span>Reading time</span><b>{minutes} minute read</b></div>
     <div><span>Works read</span><b>All 60 novels and stories, in full</b></div>
