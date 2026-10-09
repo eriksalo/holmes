@@ -1,0 +1,223 @@
+# What Sherlock Holmes Observes About Being Human
+
+*A synthesis from the text alone. No outside criticism was used. Every claim here should trace to lines in `corpus/works/`; the per-story notes in `notes/` carry the story and chapter citations. Where this essay says "the story shows," it means the action, not a character's opinion, and least of all Watson's.*
+
+<!-- themes: Justice vs. the law · Seeming vs. being · Knowing vs. proving -->
+
+---
+
+## How to read this
+
+The Holmes canon is built around a man whose trade is to state the truth about people from their surfaces. In the second chapter of A Study in Scarlet, Watson reads an article called "The Book of Life," which claims that a trained observer can "fathom a man's inmost thoughts" from "a twitch of a muscle or a glance of an eye," that "deceit, according to him, was an impossibility," and that such conclusions are "as infallible as so many propositions of Euclid." Watson calls it "ineffable twaddle." Holmes wrote it. The sixty stories that follow are a long test of that article, and the test is not kind to it.
+
+The pattern repeats so often it must be the method. Holmes makes a general claim about human nature, and the case then does something to the claim. He says a client is "a mere unit, a factor in a problem" and that "the emotional qualities are antagonistic to clear reasoning" (The Sign of the Four, ch. 2), and the book ends with him reaching for the cocaine bottle because the problem has run out. He says that "love is an emotional thing, and whatever is emotional is opposed to that true cold reason which I place above all things," and the first story of the next collection ends with him refusing a king's ring and asking for a woman's photograph instead. He tells a mutilated woman that "the example of patient suffering is in itself the most precious of all lessons to an impatient world," and she lifts her veil and says, "I wonder if you would bear it" (The Veiled Lodger). He has no answer. He asks, over a box containing two human ears, "What is the meaning of it, Watson? What object is served by this circle of misery and violence and fear? It must tend to some end, or else our universe is ruled by chance, which is unthinkable" (The Cardboard Box), in a story that the notes show is governed by chance at every turn.
+
+So the first thing the canon observes about human beings is this: **a person can be read from the outside, and the reading tells you what they have done, not what they are.** The hat tells you the man has fallen on hard times and his wife no longer loves him. It does not tell you whether he is good. The whole canon is the gap between those two kinds of knowledge, and Holmes lives on the wrong side of it, brilliantly, and the stories keep showing him so.
+
+Everything below should be read with that in mind. Holmes's maxims are quoted not because the stories endorse them but because the stories put them on trial. What follows is in three parts: what we are made of, what we do to each other, and what happens to us. A fourth part says what, after all of that, the canon teaches and what it refuses to teach.
+
+---
+
+## Part One: What we are made of
+
+### 1. People can be read from their surfaces, and the reading is right about facts and wrong about hearts
+
+Holmes's readings of bodies and objects are almost never wrong. Watson has been in Afghanistan. The hat's owner has given up his hair-cream. The typewriter has a worn "e." The trained eye really does see more, and the stories prove it a hundred times. What the stories then do is show that the same eye, pointed at a person's character rather than their history, misfires in a specific direction: toward the shameful explanation.
+
+In The Yellow Face, Holmes reasons from a wife's secrecy to a diseased first husband and a blackmailer, and the yellow face is a mask on a loved child. His only request afterward is that Watson "whisper 'Norbury' in my ear" when he grows over-confident. In The Sussex Vampire, a woman with blood on her mouth is sucking poison out of her baby. In Lady Frances Carfax, the bearded "savage" is the devoted lover and the "convalescent saint" is the predator, and the man who gets it backwards is the narrator. In The Lion's Mane, Holmes himself, retired and alone, nearly lets an innocent man be arrested because a towel was dry. In The Bruce-Partington Plans, every fact is honest and every fact has been placed, so that an honest clerk's own body is made to confess to treason, and "the dead cannot answer." Holmes's verdict on himself in that story is "You can write me down an ass this time."
+
+The observation is not that appearances deceive. It is sharper than that. The readings people choose reveal the reader. Ferguson reaches for "something in the blood" because his wife is foreign; the nurse reaches for vampires because she loves the baby; Holmes reaches for blackmail because the shape of secrecy suggests shame. The one person in The Sussex Vampire who sees clearly is the one who loves nobody in the house. That is a real advantage, and the canon is honest about its cost.
+
+### 2. Respectability is a surface anyone can borrow, and the comfortable are the last to be suspected
+
+"It is my belief, Watson, founded upon my experience, that the lowest and vilest alleys in London do not present a more dreadful record of sin than does the smiling and beautiful countryside" (The Copper Beeches). The case confirms it, and goes further: the cruelty at the Copper Beeches is hidden not by distance but by jollity. Rucastle's stories are genuinely funny. The governess genuinely laughs.
+
+This is the canon's second most frequent preoccupation, and the notes on thirty of fifty-three stories name it. The villa in Lee is paid for by the beggar's twisted lip in Threadneedle Street. The Reigate squires are a magistrate and his son. The German master who dies doing his duty is unmourned; the demure secretary and the Duke are the authors of the crime. The traitor in Bruce-Partington is the gentleman "beyond suspicion." Scott Eccles is chosen as an alibi because he is "the very type of conventional British respectability," the way a burglar chooses a crowbar. And at the top of the ladder stands Moriarty, "the professor whom libel law protects," who in The Valley of Fear murders by proxy and is untouched while the crude local boss hangs.
+
+The stories draw the lesson plainly through Holmes's own confession in The Reigate Squires: the investigator's worst enemy is the assumption that respectable people are not involved. He makes the rule and admits he breaks it. The presumption of innocence extended to the comfortable is, the canon suggests, simply another form of bias.
+
+### 3. The mind cannot bear to be still, and the cure for its despair is other people's catastrophe
+
+"What is the use of having powers, doctor, when one has no field upon which to exert them? Crime is commonplace, existence is commonplace" (The Sign of the Four, ch. 1). Holmes says this with a syringe in his hand. The book ends with the case solved, an innocent man saved, two deaths explained, and Holmes finding nothing in any of it to keep him: "there still remains the cocaine-bottle."
+
+The canon returns to this more quietly than to anything else, and the notes find it in the structure as much as the speeches. In The Reigate Squires, Holmes is in "the blackest depression" after two months of triumph; what cures him instantly is a corpse in a neighbour's garden, and he says so: "I shall certainly return much invigorated." In The Red-Headed League, he admits he did the whole thing to escape boredom, and quotes Flaubert: the man is nothing, the work is everything. In The Empty House, his one gesture of sympathy for Watson's bereavement is to hand him a job. In The Devil's Foot, he is ordered to rest or break down and abandons the rest on the first knock. In The Lion's Mane, retired to his bees, he describes a peace the story does not show.
+
+What the canon observes is that a certain kind of mind is built for work and is injured by rest and by work alike, that it cannot be kept safe, and that its relief depends on someone else's disaster arriving in time. The stories admire this mind without pretending the arrangement is healthy. Watson's phrase in The Sign of the Four is the plainest: a man of the first order who "has arranged his life so that only crisis can satisfy it."
+
+### 4. Fear is made inside the mind and works regardless of belief
+
+"The devil's agents may be of flesh and blood, may they not?" (The Hound of the Baskervilles, ch. 3). Holmes insists on exhausting natural explanations, and he is right; the hound is a dog and a tin of phosphorus. But the notes are exact about what the book then shows: the sceptic Sir Henry, the hardened convict Selden, and Holmes, Watson, and Lestrade themselves are all frozen by the thing when it comes. "Reason arrives afterward, with a lens and a match, and explains what the body already did." Sir Charles died of an explanation he believed. Sir Henry nearly died of one he did not.
+
+The Devil's Foot goes inside the fear. The poison brings nothing into the room; it opens a door already in the mind, and what comes through is "all that was monstrous and inconceivably wicked in the universe," which is the brain's own stock. What breaks Watson's terror is not reason but the sight of Holmes's face and the impulse to drag him out. That is the only antidote the canon offers, and it offers it quietly: you survive your own terror by turning to someone else's.
+
+The Valley of Fear makes fear a system. A whole valley of shopkeepers, miners, and widows dare not name the man who rules them, and the book's claim is that terror is built and maintained by people who have found it cheaper than argument, and can be unbuilt only by someone willing to live inside it under a false name. In The Blanched Soldier, dread of a disease makes the flesh imitate it. In A Study in Scarlet, the Danites' method of invisible warnings becomes Hope's method in London: terror that is learned can be taught onward.
+
+### 5. The man who says feeling spoils judgment is ruled by moods, and the feeling he disclaims is the one that catches him
+
+Holmes's doctrine is stated in nearly every book: "I never make exceptions. An exception disproves the rule." "I should never marry myself, lest I bias my judgment." "I am a brain, Watson. The rest of me is a mere appendix" (The Mazarin Stone). The canon tests the doctrine on its author and finds it false in a particular way.
+
+The notes on A Scandal in Bohemia put it best: Watson opens by insisting Holmes feels nothing and closes by recording a change in Holmes's habits he does not explain. In The Three Garridebs, when Watson is shot, Holmes's affection appears once, in extremity, and is "immediately converted into a threat to kill." Watson calls it "a great heart"; the note observes that the heart speaks only in the language of harm, and only when the mask slips. In The Devil's Foot, Holmes releases a murderer on the strength of a love he says he has never felt: "I have never loved, Watson, but if I did and if the woman I loved had met such an end, I might act even as our lawless lion-hunter has done. Who knows?" The judgment of a man who has not loved decides another man's fate, and the standard being applied, the note says, "is not a principle but a sympathy."
+
+The deeper observation is that the emotion Holmes excludes from his method does not disappear. It goes into the method. His vanity, his hunger for applause (he bows "like a dramatist" in The Six Napoleons and the story "catches the machine blushing"), his pride wounded by failure in The Five Orange Pips: these are feelings, and they are the engine. A client is never a mere unit. The stories know this better than their hero.
+
+### 6. People hide what they love, and the protective lie fails exactly where it was meant to protect
+
+This is the canon's great recurring mechanism, and the notes name it in twenty-six of fifty-three stories. Effie Munro hides her child for three years and the hiding does the damage the truth would not have done. Elsie Cubitt will not tell her husband about Chicago, he will not ask because he gave his word, and "a marriage in which one party may not ask and the other cannot tell is a house with a window open at three in the morning." Godfrey Emsworth's whole family locks him in a lodge out of love, and the secrecy shuts out the second opinion that would have ended the nightmare in an afternoon. Douglas in The Valley of Fear never tells his wife what he was; she knows anyway. The Ferguson marriage in The Sussex Vampire nearly breaks because one spouse will not ask for trust and the other will not give it.
+
+The Red Circle states the rule the reader is meant to learn: look at secrecy and ask not "what has he done?" but "what is he afraid of?" The hidden lodger is the most innocent person in the story. In the canon, people hide because they are hunted, or ashamed on someone else's behalf, or protecting a name, far more often than because they are guilty. And in every case the person lied to turns out to have deserved the truth. The canon does not say that honesty would have saved anyone. It says, through Douglas, "I would have been a wiser man if I had told her sooner," and lets you weigh that against the fact that telling her would not have stopped the ship.
+
+---
+
+## Part Two: What we do to each other
+
+### 7. Money is the engine under nearly every domestic crime, and avarice is blind
+
+The notes on The Adventures found the same machine in three stories: a daughter's income enjoyed by the household so long as she stays unmarried, and a father who acts when a suitor appears. Mary Sutherland's hundred a year, the Stoner sisters' marriage settlements, Alice Rucastle's will. Add to those the debts that drive a careful trainer to lame his master's horse, the gambling that drives a baronet to hide his sister's corpse so a horse can run, the Stock Exchange loss behind a colonel's treason, the mortgage behind a builder's faked death, and the treasure that stands between Watson and the woman he loves.
+
+The Sign of the Four is the canon's severest statement. Major Sholto, dying: "I have made no use of it myself, so blind and foolish a thing is avarice." Every later event confirms him. No one ever spends a rupee. Two men die for the box. Small scatters the jewels in the Thames rather than let them go to anyone else. The only good the treasure ever does is disappear: Watson's "Thank God!" over the empty chest, and a proposal. The note's summary is exact: "the feeling of having is not the same as having, and a man can hoard for years what he will never use and never be able to give away."
+
+What the canon adds to this old wisdom is a precise account of how money reorganizes the emotions. In Shoscombe Old Place, a brother and sister "had the same tastes," and when she dies the horse is what he thinks of. He is not a monster. The story takes pains to show that he is not. That is the point: debt does this to ordinary love, and the stories show the mechanism without raising their voice.
+
+### 8. The past waits, and no distance or new name erases it
+
+"Everything comes in circles... The old wheel turns, and the same spoke comes up. It's all been done before, and will be again" (The Valley of Fear, Part I, ch. 2). Holmes says this about crime in general; the stories say it about individual lives.
+
+Old Trevor in The "Gloria Scott" serves no sentence, builds a blameless life, raises a son who loves him, and sits in judgment with unusual mercy, and none of it protects him, because one witness to the ship is alive and knows his face. Colonel Barclay in The Crooked Man carries a betrayed comrade for thirty years and the regiment reads the aftermath as personality: "the things we call character are often the visible part of a history." Turner in The Boscombe Valley Mystery is bled for twenty years by the one man who knew him as Black Jack of Ballarat. Black Peter builds a private cabin to be alone with what he did, and it comes for him there. The Five Orange Pips arrive across an ocean and a generation. Abe Slaney follows Elsie from Chicago to Norfolk. The Red Circle's oath, sworn by a young man half-mad at injustice, allows no quiet exit.
+
+The hardest version is in The "Gloria Scott," where the notes catch something the story does not say aloud: the merciful choice on the ship, to refuse murder and take the boat, is exactly what preserved Hudson to come up the lawn thirty years later. The canon does not conclude that the convicts should have been more ruthless. It shows that goodness has no guarantee attached, and that a decent life built on a concealed foundation is a life spent waiting.
+
+### 9. Love curdles when refused, men claim women as property, and the woman at the centre rarely speaks
+
+Jim Browner on Sarah Cushing: love refused did not vanish; it turned into hatred of equal strength (The Cardboard Box). Maria Gibson loved a man who had stopped loving her and could not stop, and died to frame her rival (Thor Bridge). Isadora Klein had a man beaten under her window for loving her too hard (The Three Gables). Oldacre carried a rejection for thirty years and built a machine to hang the son of the woman who refused him (The Norwood Builder). The discarded mistress in The Illustrious Client knows the Baron better than the woman about to marry him, and the canon's observation there is that "love and hate come from the same root."
+
+Alongside this runs a colder pattern the notes name in eleven stories: women as tokens passed between men. Carruthers and Woodley play cards on a ship for who will marry the heiress (The Solitary Cyclist). The King of Bohemia hires burglars for a photograph; Lord St. Simon's marriage is "claim-jumping" in the exact vocabulary of the goldfields; Slaney believes he is "only claiming my own." Lucy Ferrier loses her voice after one chapter and becomes a ring. Nancy Barclay ends her story unconscious while three men decide what she will be told. Rachel Howells escapes both justice and explanation. Sarah Cushing, named by everyone as the root of the matter, is the only principal who never gets a line. Violet de Merville, the woman the whole Illustrious Client is fought over, is never heard from again, and Watson does not ask whether she was saved or overruled.
+
+The canon's honesty is that it keeps showing this and never comments. The notes do the commenting. The one consistent exception is in the plots themselves: when a woman is believed, the case is solved. Helen Stoner's "vague," "small" fears, dismissed as nerves, are the whole of The Speckled Band. Mrs. St. Clair's intuition that her husband is alive outruns Holmes's reasoning, and he admits it. Maud Bellamy argues from the body rather than from character in The Lion's Mane and is overruled by everyone and is right.
+
+### 10. Loyalty lives below the line and across it, and betrayal comes from inside the circle of trust
+
+"The oath of convicts holds where the honour of officers breaks" (the note on The Sign of the Four). Small keeps "the sign of four" for twenty years and throws away half a million for three men who will never know, while Sholto steals everything after asking, "What have three black fellows to do with our agreement?" Bannister, the old butler in The Three Students, sits on the gloves and lies to the college for the son of the ruined house he once served; the note calls his lie "the most honourable act in the story." The Barrymores keep faith with the worst man on the moor because he is a brother, and their mercy costs a life. Martha, the housekeeper in His Last Bow, is the one perfect cover in a story about disguises because she is simply what she appears to be. The spaniel in Shoscombe Old Place gives the only verdict in that story that was not for sale.
+
+And Watson. Holmes names him "the one fixed point in a changing age" (His Last Bow). The Blanched Soldier, which Holmes narrates himself, shows what the canon knows about that fixed point: without the listener, the method is thinner, the wonder is gone, and "the detective's genius has always depended on a listener." The Dying Detective shows the other side: an honest man can be used as an instrument precisely because he cannot lie, and the apology afterward is for forgetting him, not for deceiving him.
+
+The reverse finding is just as steady. Silver Blaze is the emblem: the dog that did not bark. Everyone at the stable built their defences against a stranger with a stick, and the man who held the keys, fed the dog, and chose the supper went out in the rain to cut his master's horse. "The warning system is tuned to the unfamiliar, and the familiar walks straight through." Twelve years of honest service tell you about the past, not about what a man has become since he started paying for twenty-guinea dresses.
+
+### 11. The people at the edges of the story pay for it, and the story does not look back
+
+This is where the notes are most consistent and the canon most quiet. In The Blue Carbuncle, Holmes lets a terrified small man run down the stairs two days after Christmas, and the plumber Horner, framed by that man, sits in a cell for a week; nobody goes to tell him. In The Priory School, the German master who acted at once and rightly is dead, and his death is filed under ransom so a duke can avoid a scandal. In The Golden Pince-Nez, Willoughby Smith, blameless, gets a testimonial and a dying message while the woman who killed him by accident is given dignity, nobility, and the floor. In The Three Garridebs, the recluse who did nothing but believe a stranger ends in a nursing home with one sentence from Watson. In The Six Napoleons, a poor Italian has his throat cut on a doorstep and Holmes says, "It is of no consequence to us." In The Sign of the Four, the one person in the chain of theft who was never promised a share is Tonga, and he is shot on sight. In His Last Bow, five agents will "stand the racket" in Portsmouth and Portland, and no one on the terrace says their names again.
+
+The note on The Three Garridebs states the finding: "the people who are the occasion of a story are not always the people the story is about, and the one with the most to lose can be the one nobody is working for." The canon's first sentence in that story is "It may have been a comedy, or it may have been a tragedy," and the answer depends on where you stand. A reader of these stories acquires the habit, as in any comedy, of asking at every triumph who is not in the room.
+
+### 12. The work and the credit go to different people, and the need to be admired is in everyone
+
+"What you do in this world is a matter of no consequence. The question is, what can you make people believe that you have done" (A Study in Scarlet, ch. 7). Holmes predicts in chapter 3 that Gregson and Lestrade will take the credit; the Echo confirms it to the letter; and the book itself, Watson's journal, exists as the only corrective. Athelney Jones takes the credit in The Sign of the Four. Inspector MacKinnon takes it in the last story in the canon, and Holmes smiles. The notes count this as a steady preoccupation of the novels and find Holmes professing not to want the credit while staging every revelation for maximum effect.
+
+The canon's shrewdest version is The Six Napoleons, where Holmes arranges the cloth, the hunting-crop, and the witnesses because he wants to be applauded, and Lestrade's "We're not jealous of you... we're proud of you" makes him flush. The note's observation is that the story is as much about the human need to be admired as about the pearl, and is honest enough to show the machine blushing. Set beside it the murderer in The Dying Detective, whose need to be known as the cleverer man is what destroys him. Pride in one's brains is the shared weakness of hunter and hunted.
+
+---
+
+## Part Three: What happens to us
+
+### 13. Knowing is not proving, and the gap between them is paid for by someone else's body
+
+"It is not what we know, but what we can prove" (The Hound of the Baskervilles). Holmes smells jessamine on a letter in London and knows the murderer's name for weeks before he can act. The law's requirement that guilt be shown to twelve ordinary people is a protection for the innocent that, in that book, puts the innocent on a dark path as bait. "You have saved my life." "Having first endangered it." Then no jury ever sits, because the mire takes Stapleton.
+
+The Empty House is the purest case. Holmes knew Moran was a murderer and could do nothing until Moran killed again. Ronald Adair, the only person in the story who behaves purely well, is shot for it, and his death is the lever that lets justice reach a man everyone competent already knew was guilty. "My chance had come at last" is, the note says, the voice of someone for whom a stranger's murder arrived as good news. In The Norwood Builder, Holmes spends a day confirming the prosecution's case and tells Watson, "All my instincts are one way, and all the facts are the other," and the rescue comes from one remembered observation and the criminal's inability to stop improving his lie. In The Dancing Men, he decodes the death threat and arrives the morning after the shooting. In The Five Orange Pips, his reasoning is impeccable and his client is dead before breakfast.
+
+What the canon observes is the gap between understanding and power. To know who the killers are, where they are going, and how they travel is not to be able to stop them. The stories are honest that Holmes feels this as a wound to pride before he feels it as grief for the other, and that the feeling, petty as it is, is the engine of what little he can do.
+
+### 14. Where the law cannot reach, someone makes himself judge, jury, and executioner, and the canon lets him, uneasily
+
+This is the canon's single most frequent preoccupation. The notes on thirty-two of fifty-three stories name it. The avengers are given the longest speeches and the narrative's evident sympathy: Jefferson Hope, Jonathan Small, Garcia, Sterndale, the veiled lady at Milverton's, the hunted husband in The Red Circle, Eugenia Ronder. Hope says it plainly: he is "an officer of justice." The law never gets to test the claim. He dies of an aneurism before trial, smiling.
+
+And Holmes does the same thing from the other side, so often that The Three Gables calls it "compounding a felony as usual." He lets Ryder go (The Blue Carbuncle: "I am not retained by the police to supply their deficiencies... it is just possible that I am saving a soul"). He conceals Turner (Boscombe Valley: "it is not for me to judge you," and then he judges). He acquits Captain Crocker with Watson as the jury: "Vox populi, vox Dei" (The Abbey Grange). He kills Roylott with a cane and feels nothing he will admit to, and the inquest records an accident. He sends Sterndale back to Africa. He holds Watson's wrist while a woman empties a revolver into Milverton and grinds her heel into his face, burns the evidence, and tells Lestrade his sympathies are "with the criminals rather than with the victim." He takes the Duke's cheque and lets the law hang the hired brute without learning who hired him. He burgles Oberstein's house and is decorated for it, and Lestrade's "some of these days you'll go too far" is the only voice that doubts.
+
+The canon's honesty is in three things. First, it lets the characters argue for the law (Baynes, Lestrade, Watson), and then shows the law arriving late or not at all. Second, it keeps the ugliness in view: the heel in the face, the wronged husband's "flint" heart, Garcia walking across the common to knife a sleeping man. Third, it admits that the standard is rank as much as right. "The rigid British law becomes human and elastic" when the client is illustrious enough (The Illustrious Client). In wartime it is "openly suspended, and the lawbreaker agrees with every charge against him" (His Last Bow). Holmes's prayer in Boscombe Valley never to face "such a temptation" is, the note says, "an admission that his detachment is a privilege of circumstance, not a virtue of character."
+
+What the canon observes, then, is that the law's limits do something to decent people. Holmes starts The Milverton story as a negotiator and ends it a false suitor, a burglar, a silent witness, and a man who conceals a killer's identity, and at every step his reasoning is sound and his object is unselfish. The stories stand by the results. They do not pretend the path was clean.
+
+### 15. Justice arrives, if at all, as weather
+
+The Lone Star goes down with all hands in the Atlantic, and the letter Holmes posted is never received. The Grimpen Mire takes Stapleton. A gale off St. Helena takes Douglas, by Moriarty's hand or the sea's. A lion takes the wife's face and a jellyfish takes the science master. Roylott's own snake comes back up the bell-rope. Rucastle's own mastiff mauls him. Hope's aneurism spares the book from having to try him. "Let us see if there is justice upon the earth, or if we are ruled by chance," says Hope, holding out two pills, one poisoned.
+
+The note on The Five Orange Pips puts the finding plainly: "justice arrives, if at all, by accident." Watson calls the sinking of the Lone Star a "flaw" in Holmes's plan rather than a judgment on the Klansmen. The storm began the story shrieking at civilisation through its bars, and it ends with the storm having the last word. In the Hound, "if you want to believe that justice was done, you have to accept that it was done by a bog." The canon keeps two accounts of causation running, providence and chance, and the stories invoke "a higher Judge" exactly where they would otherwise have to be one.
+
+### 16. The detective and the criminal are the same animal, and what separates them is direction, not nature
+
+"He is an amateur of crime, as I am of disease," says Culverton Smith (The Dying Detective), and the story shows Holmes's performance as much a display of pride as Smith's gloating. John Clay and Holmes in The Red-Headed League are symmetrical men who find ordinary life unbearable and build elaborate problems to fill it; they compliment each other's work, and the story "declines to tell you what, beyond the law, makes them different." Holmes models his trap in The Empty House on Moran's tiger-hunting. In The Mazarin Stone he offers a murderer his liberty for a stone and wins "because he is better at it, not because he is better morally." In The Valley of Fear "the detective is an artist, and so is the criminal; the better artist wins." Moriarty is the mirror Holmes names himself, and Holmes's own account of his career is that "in over a thousand cases I am not aware that I have ever used my powers upon the wrong side" (The Final Problem). Not that he could not have.
+
+The canon's observation is not cynical. It is that excellence and virtue are different things, that the stories are content to admire excellence, and that what makes Holmes a benefactor is what the pride is spent on. The Dying Detective ends with claret and dinner and two people, a landlady and a doctor, who were frightened for three days so that one man could be caught.
+
+### 17. The great mind is late, wrong, and alone, and depends on a listener it undervalues
+
+Beaten by a woman in the first story of the Adventures. Too late for Openshaw. Wrong about gipsies in The Speckled Band. Arrives at an empty room at the Copper Beeches, and at a dead squire in The Dancing Men, and at a burning house in The Engineer's Thumb. Misjudges Baynes. Loses a night to a coffin that was too large. Nearly gets a man arrested over a dry towel. "I confess that I have been as blind as a mole," "You can write me down an ass," "Norbury." Silver Blaze admits that failure is "a more common occurrence than any one would think who only knew me through your memoirs," which is to say that the record of triumphs is flattering by selection, and the stories tell you so.
+
+And in The Lion's Mane, with no Watson, Holmes stands "alone by that place of death" with the answer "for ever just beyond your reach," and the note sees "a great mind at the edge of its own limits, with no one to tell it so." The retirement he yearned for has brought a case to his door and a death to his beach. He ends with a joke. The canon's finding about genius is that it is a relationship, not a possession; that the wonder, the withheld link, and the friend who is surprised were never decoration; and that the man who says "the rest of me is a mere appendix" has a friend who is the rest of him.
+
+### 18. The meaning of it is asked for and not given, and what the canon offers instead is flowers, a friend, and the sight of someone bearing what you could not
+
+"What object is served by this circle of misery and violence and fear? It must tend to some end, or else our universe is ruled by chance, which is unthinkable. But what end? There is the great standing perennial problem to which human reason is as far from an answer as ever" (The Cardboard Box). This is the man whose whole function is explanation, admitting that reason has nothing to offer here. The note calls that admission the real ending of the story.
+
+"Is not all life pathetic and futile? Is not his story a microcosm of the whole? We reach. We grasp. And what is left in our hands at the end? A shadow. Or worse than a shadow, misery" (The Retired Colourman). The man who prompted this was not a victim of life but its author; he had gassed his wife and her lover in a sealed room and come to Holmes to be pitied. The note's observation is that "philosophy can be a mistake of attribution": Holmes's melancholy was real and aimed at the wrong man. "If there is not some compensation hereafter, then the world is a cruel jest" (The Veiled Lodger) is as close as the stories come to admitting that the cases they solve do not add up to justice.
+
+Against all this the canon sets three things, none of them an argument. The first is the rose in The Naval Treaty: "Our highest assurance of the goodness of Providence seems to me to rest in the flowers. All other things, our powers, our desires, our food, are all really necessary for our existence in the first instance. But this rose is an extra. Its smell and its colour are an embellishment of life, not a condition of it. It is only goodness which gives extras, and so I say again that we have much to hope from the flowers." The client and his nurse look at Holmes "with surprise and a good deal of disappointment." He is not solving their case. He is doing the only other thing he knows how to do with the question.
+
+The second is the friend. The Devil's Foot: what pulls Watson out of the poison is Holmes's face; what pulls Holmes out of every depression is a case, and what pulls him out of his coldness, once, is Watson bleeding on a floor. His Last Bow: "You are the one fixed point in a changing age." The canon never argues that friendship answers the question of meaning. It shows two men on a terrace, knowing the conversation may be the last, talking about an east wind.
+
+The third is the veil. Holmes tells a suffering woman that her patience is a lesson to an impatient world, and she shows him what the lesson costs, and he has no answer, and two days later she sends him her bottle of prussic acid and a note: "I will follow your advice." The note on that story will not say whether this is "a triumph of a word spoken at the right time or a woman doing what a famous man told her because he was the one person who had heard her." The canon gives you both. What it insists on is that she was heard. Some truths, that story says, belong to a listener rather than a court.
+
+---
+
+## Part Four: What it teaches
+
+Having read all of this, what does the canon actually teach a single person? Not a method. The method is real and the stories spend sixty cases showing where it stops.
+
+**1. You can read what a person has done; you cannot read what they are, and the attempt tells you about yourself.** The readings people reach for, vampire, lover, blackmailer, foreigner, reveal the reader's fear. The one practical rule the canon offers is Holmes's own request: have someone near you who will whisper "Norbury."
+
+**2. Respectability is not evidence.** The smiling countryside, the magistrate, the professor, the gentleman beyond suspicion. The presumption of innocence you extend to the comfortable is a bias, and the stories show the detective admitting it and breaking it in the same case. Ask, as Holmes does in The Norwood Builder, where to begin; the crime is not always the right starting point.
+
+**3. Secrecy is usually fear, not guilt, and the lie you tell to protect someone will fail precisely where it was meant to protect.** Ask what a hidden person is afraid of before asking what they have done. And if you are the one hiding something for a loved one's sake, the canon's verdict, delivered by Douglas over his own ruin, is that they deserved the truth and you would have been wiser to give it, even though giving it might not have saved anyone.
+
+**4. Money reorganizes the emotions, quietly, in ordinary people.** The father who keeps a daughter unmarried, the brother who hides a sister's corpse for a horse. The stories go out of their way to show that these are not monsters. Watch what a debt does to your own loves.
+
+**5. The past is not left behind by distance, a new name, or a blameless life afterward.** It waits for a witness. The canon does not say this to frighten; it says it the way Holmes says "the old wheel turns." If you are building on something concealed, you are waiting.
+
+**6. Knowing is not proving, and the gap is paid for by someone else.** If you are certain and cannot act, the canon's honest finding is that you will wait for a crime, and the crime will fall on a stranger. There is no clean way to carry this. Holmes carries it with relief when it finally comes, and the stories let you see that.
+
+**7. When the law cannot reach a wrong, you will be tempted to be the judge, and the canon neither forbids this nor pretends it is clean.** It shows the heel in the face. It shows the standard bending for rank. It shows Holmes praying never to face the temptation and then facing it in half the stories. What it offers as a guide is not a principle but a question Holmes asks in The Abbey Grange: would you hang this man, and if not, who are you to let the law do it?
+
+**8. The mind that lives for the problem will find the problem running out, and the cure will be someone else's catastrophe.** The canon admires this mind without recommending it. If you recognize yourself in "what else is there to live for?", the stories' answer is not to stop working. It is that the fixed point was a person, not a case, and that the man who called him an appendix was wrong about what he was made of.
+
+**9. Count the people at the edges.** Horner in his cell, Heidegger on the moor, the Italian on the doorstep, the recluse in the nursing home. Every triumph in the canon has someone outside the room who paid for it. A reader who learns this from Holmes learns to ask it of every settled matter in his own life: who is not here, and why.
+
+**10. When you ask what the meaning of it is, you will not get an answer, and the things that help are not answers.** A rose that is an extra. A friend's face through the terror. Being heard by one person before you die. The canon's most intelligent character asks the question over a box of severed ears and then goes back to work. That is not a resolution. It is what the stories give you to carry out of them.
+
+### What the canon refuses to teach
+
+It will not tell you whether Jefferson Hope was right. It will not say whether Holmes was right to let Ryder go, or Turner, or Sterndale, or the woman with the revolver. It will not resolve whether Edwards, who went "down into hell" and stood guard while an editor was beaten, is a deliverer or "as bad as you." It will not tell you what separates Holmes from Clay beyond the law, or whether the cheque from the Duke was a fee or a price. It will not say whether Violet de Merville was saved or overruled, whether Eugenia Ronder's last note is a triumph or an obedience, or whether the east wind is a curse or a cleansing; the first paragraph of His Last Bow calls it one and the last speech calls it the other.
+
+This is not evasion. It is the canon's steadiest observation about the human condition: that the facts of a case can be got exactly right and that getting them right settles far less than one would like. "Justice in this story is mostly a matter of getting the facts right," the note on Black Peter says, "and getting the facts right settles far less than one would like." The man who can tell you where you have been from the mud on your boots cannot tell you whether you should have gone. The stories know the difference, and they keep the two kinds of knowledge in separate hands, one of them Holmes's and the other, usually, the reader's.
+
+---
+
+## Questions to argue with
+
+1. The canon honours private justice in the mouths of avengers and in Holmes's own hands, and shows it bending for rank and curdling into a heel in a face. Is this an argument that the law is insufficient, or an observation that decent people will always exceed it, or both?
+2. "The person who sees clearly is the one who loves no one in the house." Is detachment a method or a deprivation? Can the two be separated?
+3. Holmes's doctrine that feeling spoils judgment is refuted by the stories at every turn, and his judgments are also, usually, right. Does the canon think the doctrine is false, or only that it is not true of him?
+4. The protective lie fails in every story, and the canon never shows that the truth would have saved anyone either. What is it actually recommending?
+5. Thirty-two of fifty-three stories turn on the law's inability to reach a wrong. Is the detective an instrument of the law, a corrective to it, or a competitor with it?
+6. The rose, the friend, the veil. Are these answers to "what is the meaning of it," or honest admissions that there are none? Does the difference matter to how one lives?
+7. "The people who are the occasion of a story are not always the people the story is about." Apply that to the stories of your own life that you tell best.
+
+---
+
+## Where to go next
+
+- The per-story notes in `notes/` each end with "What it teaches" and "Preoccupations." Start with A Study in Scarlet, The Sign of the Four, The Cardboard Box, The Yellow Face, The Devil's Foot, The Veiled Lodger, and The Retired Colourman, which carry most of the weight above.
+- For the method of "the speech and the case," read Holmes's doctrines in The Sign of the Four, chapter 2, and then read A Scandal in Bohemia and The Three Garridebs. Then read "The Book of Life" in A Study in Scarlet, chapter 2, and The Yellow Face.
+- For private justice, read The Blue Carbuncle, The Boscombe Valley Mystery, Charles Augustus Milverton, The Abbey Grange, and The Devil's Foot in that order, and watch the standard move.
+- For the past returning, read The "Gloria Scott," The Crooked Man, and Black Peter together.
+- For the question of meaning, read The Cardboard Box, The Naval Treaty (the rose), The Veiled Lodger, and The Retired Colourman, which is the last story in the canon and begins by asking whether all life is futile.
+
+*Notes for all 60 works are in `notes/`.*
