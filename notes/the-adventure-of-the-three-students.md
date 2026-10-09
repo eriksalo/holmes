@@ -1,0 +1,65 @@
+# The Adventure of the Three Students
+
+## What happens
+Holmes and Watson are lodging in a university town while Holmes researches early English charters. Hilton Soames, a nervous tutor at St. Luke's, begs Holmes to act privately: the proofs of tomorrow's Greek examination paper for the valuable Fortescue Scholarship have been tampered with while he was at tea. His servant Bannister left the key in the door; the three slips of proof were scattered; pencil shavings, a broken lead, a three-inch cut in the new leather desk, and a small pyramid of black clay with sawdust in it remain. Three students who sit the exam live on the stair above: Gilchrist, a poor, hard-working athlete whose father ruined himself at the turf; Daulat Ras, a quiet Indian whose Greek is weak; and Miles McLaren, brilliant, dissipated, and nearly expelled over cards. Holmes measures the window height, finds a second clay pyramid in the bedroom, interviews a visibly frightened Bannister who sat in an odd chair, calls on each student with a pencil-sharpening pretext, and spends the next dawn walking to the athletic grounds for a third sample of clay from the long-jump pit. At a "private court-martial" he confronts Bannister, who denies everything, then brings down Gilchrist, who collapses and confesses: he saw the proofs through the window because of his height, entered on impulse when he saw the key, copied them, hid in the bedroom with his spiked jumping shoes when Soames returned, and was let out by Bannister. He produces a letter, written before dawn, withdrawing from the exam to take a commission in the Rhodesian police. Bannister explains that he was butler to Gilchrist's ruined father, recognised the young man's gloves on the chair and sat on them, then spoke to him "as his dead father would have done." Holmes wishes Gilchrist well: "For once you have fallen low. Let us see, in the future, how high you can rise."
+
+## What the work observes about being human
+
+1. **Temptation is an accident of opportunity more than of character; a good man may fall because a key was left in a door.** Gilchrist's crime begins as curiosity.
+   - *Where it is spoken:* Holmes: "A sudden impulse came over him to enter, and see if they were indeed the proofs. It was not a dangerous exploit for he could always pretend that he had simply looked in to ask a question." And: "it was then that he yielded to temptation."
+   - *What the action does with it:* The story is careful to show the chain: he is tall, so he can see; he has shoes in his hand, so he carries evidence; the key is there, so he can enter without alarm; the proofs are real, so the small sin becomes a large one. Soames's three thumbnail characters place the suspicion on McLaren ("the least unlikely") and Watson chooses him too ("the one with the worst record"). The guilty man is "a fine, manly fellow" with "a pleasant, open face." Character sketches predicted nothing; height and circumstance predicted everything.
+
+2. **The one who is poorest has the most to gain from cheating and the most to lose from being caught, and poverty is the pressure under which honour breaks.** Gilchrist is the ruined baronet's son.
+   - *Where it is spoken:* Soames: "His father was the notorious Sir Jabez Gilchrist, who ruined himself on the turf. My scholar has been left very poor, but he is hard-working and industrious. He will do well." Soames on the stakes: "A large sum of money is at stake, for the scholarship is a very valuable one."
+   - *What the action does with it:* The story does not say that Gilchrist cheated because he was poor; it says he was tempted by what was in front of him. But it places the ruined father in the frame and the valuable scholarship as the prize, and it gives the servant's loyalty to that same ruined father as the force that saves him. The father's fall is the condition of both the son's temptation and his rescue.
+
+3. **Loyalty across a fallen house can be stronger than loyalty to a present master, and a servant's lie may be the most honourable act in the story.** Bannister sits on the gloves.
+   - *Where it is spoken:* "I never forgot my old employer because he was down in the world. I watched his son all I could for the sake of the old days... I flopped down into that chair, and nothing would budge me until Mr. Soames went for you." And: "Wasn't it natural, sir, that I should save him, and wasn't it natural also that I should try to speak to him as his dead father would have done... Could you blame me, sir?" Holmes: "No, indeed."
+   - *What the action does with it:* Bannister deceives his master, obstructs the inquiry, lies to Holmes's face three times ("There was no man, sir"), and is wholly vindicated by the story. His deception is in service of a conscience: he hides the boy and then shames him into honesty. The text's verdict is Holmes's hearty "No, indeed," and Gilchrist's "There is the man who set me in the right path." The story prefers a servant's private justice to a college's public one, and says so.
+
+4. **Confession that comes before exposure is worth more than confession extracted by it, and the story stages both so you can see the difference.** Gilchrist's letter was written in the night.
+   - *Where it is spoken:* Gilchrist: "I have a letter here, Mr. Soames, which I wrote to you early this morning in the middle of a restless night. It was before I knew that my sin had found me out." The letter: "I have determined not to go in for the examination. I have been offered a commission in the Rhodesian Police, and I am going out to South Africa at once."
+   - *What the action does with it:* He collapses first, in "a storm of passionate sobbing," and only afterward produces the letter; the reader has to decide whether to believe it was written before the summons. The story asks you to believe him, and gives you Bannister's account as corroboration. But the sequence (caught, then "I was already going to confess") is one every reader has heard, and the text knows it; Soames's "I am indeed pleased to hear that you did not intend to profit" is a kind man taking a young man's word. The grace extended is real and slightly uncertain, which is how grace usually is.
+
+5. **Institutions want quiet more than they want justice, and a private tribunal is what quiet looks like.** Soames will not call the police; Holmes convenes a court-martial of three.
+   - *Where it is spoken:* Soames: "When once the law is evoked it cannot be stayed again, and this is just one of those cases where, for the credit of the college, it is most essential to avoid scandal." Holmes: "If this matter is not to become public, we must give ourselves certain powers and resolve ourselves into a small private court-martial."
+   - *What the action does with it:* Watson's opening frame has already hidden the college and the names so that "so painful a scandal may well be allowed to die out." The outcome is that a cheat leaves for the colonies with a commission, a servant keeps his place, and the examination goes ahead with the other two students unaware anything happened. No one is punished; everyone is protected. The story treats this as the right result, and it may be; it also shows exactly how an institution's reputation is kept by three men in a room agreeing not to speak.
+
+6. **Prejudice is a form of inattention, and the story lets it show.** Both Soames and Watson lean on the Indian student's foreignness.
+   - *Where it is spoken:* Soames: "He is a quiet, inscrutable fellow; as most of those Indians are." Watson: "that Indian was a sly fellow also. Why should he be pacing his room all the time?" and "He looked at us in a queer way." Holmes: "There is nothing in that. Many men do it when they are trying to learn anything by heart." And: "So would you, if a flock of strangers came in on you when you were preparing for an examination next day, and every moment was of value."
+   - *What the action does with it:* Daulat Ras is innocent, pacing to memorise, irritated at intruders, exactly as any student would be. The story gives the prejudiced lines to the narrator and the client, not to Holmes, and has Holmes dismiss each one with an ordinary explanation. Watson records his own suspicion and its refutation without comment. Whether the text itself shares the prejudice (Soames's remark goes unrebuked) is left open; what it shows is that suspicion follows strangeness and reason has to be made to correct it.
+
+7. **A pupil's fall is a teacher's problem, and the tutor's agitation is about his own position as much as the boy's.** Soames's distress is for the college.
+   - *Where it is spoken:* "there will ensue a hideous scandal, which will throw a cloud not only on the college, but on the university. Above all things, I desire to settle the matter quietly and discreetly." And: "One hardly likes to throw suspicion where there are no proofs."
+   - *What the action does with it:* Soames is drawn sympathetically but as a man in a "dreadful fidget," unable to stand still, who left his door with the key in it and his proofs on the table. His dilemma, as Watson puts it, is "between making the facts public and allowing the culprit to compete." He never considers a third option until Holmes supplies it. When the story resolves, Soames's one line of feeling is about Gilchrist's intentions, not his future; it is Holmes, not the tutor, who says "I trust that a bright future awaits you in Rhodesia."
+
+8. **The detective is a worse man away from his things, and knows it.** Holmes is irritable without Baker Street.
+   - *Where it is spoken:* Watson: "Without his scrapbooks, his chemicals, and his homely untidiness, he was an uncomfortable man. He shrugged his shoulders in ungracious acquiescence." Holmes: "I am very busy just now, and I desire no distractions."
+   - *What the action does with it:* The story opens with Holmes refusing the case and recommending the police, the opposite of his usual appetite; he "recovers his good-humour as his attention became more engrossed." Then he teases Watson about the landlady and green peas, gets up at six to walk five miles for a pinch of clay, and ends kindly. The text lets a small case restore a man's temper, and makes the restoration part of the story: the mind needs a problem the way the body needs food Holmes keeps skipping.
+
+## What it teaches
+This is a story in which no one is wicked. A good young man does a bad thing because a window was at his eye-level and a key was in a door; an old servant lies to protect him and then shames him into honesty; a nervous tutor wants, above all, for nobody to know. The crime is small, the stakes are a scholarship, and the resolution is a boy on his knees and a commission in Rhodesia. What the text observes is how thin the line is between the honourable man and the cheat: not a difference of nature but of a few minutes' opportunity, and how recovery depends not on the law but on someone who loved your father. Bannister is the moral centre, and he is a liar; the story knows this and approves.
+
+The difficulty it leaves is about who gets this kind of mercy. Three men in a room decide that the thing will never be spoken of; the other two students sit the exam unaware; the college's name is unstained. Everyone concerned is a gentleman or a gentleman's servant, and everyone's instinct is for quiet. The Indian student, suspected on no evidence by both the client and the narrator, is cleared by Holmes's plain good sense but never knows he was suspected. Watson's own frame conceals every name "for the credit of the college." The lesson is gentle: it is human to err, and a fall can be the start of a rise. The question the story does not ask is what happens to the person who falls where no old butler is sitting on the chair.
+
+## Lines worth keeping
+- "When once the law is evoked it cannot be stayed again."
+- "Let us hear the suspicions. I will look after the proofs."
+- "He is a quiet, inscrutable fellow; as most of those Indians are."
+- "I don't believe there is any gentleman in this university who is capable of profiting by such an action. No, sir, I'll not believe it."
+- "Quite a little parlour game—sort of three-card trick, is it not? There are your three men. It must be one of them."
+- "Why should a perfectly honest man—well, well, here's a large stationer's."
+- "We must give ourselves certain powers and resolve ourselves into a small private court-martial."
+- "It is human to err, and at least no one can accuse you of being a callous criminal."
+- "It was before I knew that my sin had found me out."
+- "I never forgot my old employer because he was down in the world."
+- "Wasn't it natural, sir, that I should save him... Could you blame me, sir?"
+- "For once you have fallen low. Let us see, in the future, how high you can rise."
+
+## Preoccupations
+- temptation as opportunity rather than character
+- loyalty to a fallen family outlasting loyalty to the present
+- scandal avoided through private judgement instead of law
+- confession and the chance of a second start
+- suspicion that follows the outsider
+- the honourable lie

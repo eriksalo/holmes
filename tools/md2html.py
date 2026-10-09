@@ -10,6 +10,7 @@ m = re.search(r'^\*(.+?)\*\s*$', rest, re.M)
 preface = m.group(1) if m else ''
 rest = rest.replace(m.group(0), '', 1) if m else rest
 rest = re.sub(r'^---\s*$', '', rest, flags=re.M)
+rest = re.sub(r'^<!-- themes: .+? -->\s*$', '', rest, flags=re.M)
 
 body = markdown.markdown(rest, extensions=['extra', 'sane_lists', 'smarty'])
 pre = markdown.markdown(preface, extensions=['extra','smarty'])
@@ -63,7 +64,7 @@ doc = f"""<!doctype html><html><head><meta charset="utf-8"><title>{html.escape(t
 <div class="title">
   <h1>{html.escape(title)}</h1>
   <div class="sub">{pre}</div>
-  <div class="meta">Read from the Project Gutenberg Complete Works. October 2026.</div>
+  <div class="meta">Read from the Project Gutenberg editions of the Sherlock Holmes canon. October 2026.</div>
 </div>
 <div class="contents"><h2>Contents</h2><ul>{''.join(toc_html)}</ul></div>
 {body}

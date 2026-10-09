@@ -16,12 +16,15 @@ preface = m.group(1) if m else ''
 rest = rest.replace(m.group(0), '', 1) if m else rest
 rest = re.sub(r'^---\s*$', '', rest, flags=re.M)
 
-REPO = 'https://github.com/eriksalo/shakespeare'
+REPO = 'https://github.com/eriksalo/holmes'
 preface = (preface
            .replace('`corpus/works/`', f'[the corpus]({REPO}/tree/main/corpus/works)')
            .replace('the per-play notes in `notes/`', f'[the per-play notes]({REPO}/tree/main/notes)'))
 rest = rest.replace('`notes/`', f'[`notes/`]({REPO}/tree/main/notes)')
 
+tm = re.search(r'^<!-- themes: (.+?) -->\s*$', rest, re.M)
+themes = tm.group(1) if tm else 'Reason · Justice · Concealment'
+rest = rest.replace(tm.group(0), '') if tm else rest
 words = len(re.findall(r"\w+", rest))
 minutes = max(1, round(words / 230))
 
@@ -171,12 +174,12 @@ js = """
 
 doc = f"""<!doctype html><html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
 <title>{html.escape(title)}</title>
-<meta name="description" content="A reading of the whole of Shakespeare, from the text alone, for what it observes about being human.">
+<meta name="description" content="A reading of the whole Sherlock Holmes canon, from the text alone, for what it observes about being human.">
 <link rel="preconnect" href="https://fonts.googleapis.com"><link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link href="https://fonts.googleapis.com/css2?family=Red+Hat+Display:wght@500;600;700;800&family=Red+Hat+Text:ital,wght@0,400;0,500;0,600;1,400&display=swap" rel="stylesheet">
 <style>{css}</style></head><body>
 <div class="topbar"><div class="wrap">
-  <a class="brand" href="#">BARD<small>SALO · CLOUD</small></a>
+  <a class="brand" href="#">HOLMES<small>SALO · CLOUD</small></a>
   <nav><a href="#{sections[0][1]}">Read</a><a href="{REPO}/tree/main/notes">Notes</a><a href="{REPO}/tree/main/corpus/works">Corpus</a><a class="btn primary" href="THE-HUMAN-CONDITION.pdf">Download PDF</a></nav>
 </div></div>
 
@@ -187,9 +190,9 @@ doc = f"""<!doctype html><html lang="en"><head><meta charset="utf-8"><meta name=
   <div class="btns"><a class="btn primary" href="THE-HUMAN-CONDITION.pdf">Download PDF</a><a class="btn" href="{REPO}/tree/main/notes">Per-play notes</a><a class="btn" href="{REPO}">Source on GitHub</a></div>
   <div class="meta">
     <div><span>Reading time</span><b>{minutes} minute read</b></div>
-    <div><span>Works read</span><b>All 44 plays and poems, in full</b></div>
-    <div><span>Method</span><b>Text only · no outside criticism · act and scene cited</b></div>
-    <div><span>Primary themes</span><b>Knowing vs. doing · Seeming vs. being · Time</b></div>
+    <div><span>Works read</span><b>All 60 novels and stories, in full</b></div>
+    <div><span>Method</span><b>Text only · no outside criticism · story and chapter cited</b></div>
+    <div><span>Primary themes</span><b>{html.escape(themes)}</b></div>
   </div>
 </div></header>
 
@@ -198,7 +201,7 @@ doc = f"""<!doctype html><html lang="en"><head><meta charset="utf-8"><meta name=
   <main class="card">{''.join(sec_html)}</main>
 </div>
 
-<footer><div class="wrap"><span>Read from the Project Gutenberg Complete Works (ebook #100). Every claim traces to lines in the plays.</span><span><a href="{REPO}">eriksalo/shakespeare</a></span></div></footer>
+<footer><div class="wrap"><span>Read from the Project Gutenberg editions of the four novels and five collections. Every claim traces to lines in the stories.</span><span><a href="{REPO}">eriksalo/shakespeare</a></span></div></footer>
 <script>{js}</script>
 </body></html>"""
 open(out, 'w', encoding='utf-8').write(doc)
